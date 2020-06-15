@@ -20,6 +20,8 @@
 다음 사진은 실제 생성된 블록들의 해시값을 가져와 보여준다.
 
 [정상적 유저들의 블록해시값]  [공격자의 블록 해시값]
+<img width="496" alt="정상적 사용자 해시블록" src="https://user-images.githubusercontent.com/33947681/84633873-ffe6ed00-af2b-11ea-80ae-6cba94fbac7e.png"><img width="328" alt="공격자가 만든 블록해시" src="https://user-images.githubusercontent.com/33947681/84633879-01b0b080-af2c-11ea-84cb-82b204de2aaf.png">
+
 
 이를 보기 쉽게 그림으로 표현하면
 
@@ -31,6 +33,7 @@
 이때 정상적유저1은 1000YSC를 받고 6컨펌이 지났기에 1000YSC의 거래를 확정짓고 본인 잔액에 포함시킨다.
 
 [6컨펌 이후 트랜잭션], [6컨펌 이후 잔액]
+<img width="526" alt="공격전 잔액" src="https://user-images.githubusercontent.com/33947681/84633882-02e1dd80-af2c-11ea-8ed8-eca6a611b127.png"><img width="472" alt="벤치1컴 6컨펌 이후 1000비트코인 전송 트랜잭션 상태 복사본" src="https://user-images.githubusercontent.com/33947681/84633886-04130a80-af2c-11ea-9c85-da3e7a1687bd.png">
 
 
 마지막으로 공격자는 본인의 블록을 정상적인 유저들과 연결한다.
