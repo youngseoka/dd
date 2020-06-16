@@ -58,7 +58,8 @@
 
 마지막으로 공격자는 본인의 블록을 정상적인 유저들과 연결한다.
 
-[공격받은사진]<img width="1062" alt="공격받은사진" src="https://user-images.githubusercontent.com/33947681/84632288-a2ea3780-af29-11ea-96d7-0bf49275bd95.png">
+[공격받은사진]
+<img width="1250" alt="공격받은 사진 _detail" src="https://user-images.githubusercontent.com/33947681/84769400-ba502000-b010-11ea-8e36-f26842005a82.png">
 
 이 사진에서 알수있는점은 공격자가 정상적인 유저들보다 블록을 하나 더 만들었기에 공격자의 블록이 정상적인 블록이라 판단하고 
 
