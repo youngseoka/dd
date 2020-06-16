@@ -4,7 +4,7 @@
 
 실험의 시나리오는 다음 사진과 같다
 
-[내가 하려는거 개요도 그 사진]<img width="838" alt="내가 하려는거 개요도" src="https://user-images.githubusercontent.com/33947681/84632268-9e258380-af29-11ea-8250-ed3e6e25fee6.png">
+<img width="838" alt="내가 하려는거 개요도" src="https://user-images.githubusercontent.com/33947681/84632268-9e258380-af29-11ea-8250-ed3e6e25fee6.png">
 
 실험환경은 비트코인 하드포크를 진행해 영석코인을 만들고 진행하였다.
 
