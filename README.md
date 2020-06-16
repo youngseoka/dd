@@ -27,12 +27,19 @@
 
 다음 사진은 실제 생성된 블록들의 해시값을 가져와 보여준다.
 
-[정상적 유저들의 블록해시값]<img width="496" alt="정상적 사용자 해시블록" src="https://user-images.githubusercontent.com/33947681/84633873-ffe6ed00-af2b-11ea-80ae-6cba94fbac7e.png">[공격자의 블록 해시값]<img width="328" alt="공격자가 만든 블록해시" src="https://user-images.githubusercontent.com/33947681/84633879-01b0b080-af2c-11ea-84cb-82b204de2aaf.png">
+[정상적 유저들의 블록해시값]
+
+<img width="496" alt="정상적 사용자 해시블록" src="https://user-images.githubusercontent.com/33947681/84633873-ffe6ed00-af2b-11ea-80ae-6cba94fbac7e.png">
+
+[공격자의 블록 해시값]
+
+<img width="328" alt="공격자가 만든 블록해시" src="https://user-images.githubusercontent.com/33947681/84633879-01b0b080-af2c-11ea-84cb-82b204de2aaf.png">
 
 
 이를 보기 쉽게 그림으로 표현하면
 
-[정상적 유저와 공격자 해시값]<img width="1033" alt="정상적 유저와 공격자 해시값" src="https://user-images.githubusercontent.com/33947681/84632282-a1b90a80-af29-11ea-85a2-7c73c745d5d9.png">
+[정상적 유저와 공격자 해시값]
+<img width="1033" alt="정상적 유저와 공격자 해시값" src="https://user-images.githubusercontent.com/33947681/84632282-a1b90a80-af29-11ea-85a2-7c73c745d5d9.png">
 
 이와같은 해시값을 가지는 블록을 생산하였다.
 
