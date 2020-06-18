@@ -117,7 +117,7 @@
 
 [6컨펌 이후 공격받은 정상적 유저1의 잔액]
 
-<img width="1025" alt="스크린샷 2020-06-17 오후 7 01 19" src="https://user-images.githubusercontent.com/33947681/84884841-314aee80-b0cd-11ea-92ed-d18220bb8cae.png">
+<img width="1025" alt="스크린샷 2020-06-17 오후 7 01 19" src="https://user-images.githubusercontent.com/33947681/84982059-cd7a0180-b170-11ea-937a-4846407bb28b.png">
 
 
 
