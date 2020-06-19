@@ -12,14 +12,15 @@
 
 이를 보기쉽게 그림으로 표현하면 
 
-<img width="384" alt="스크린샷 2020-06-19 오후 1 08 58" src="https://user-images.githubusercontent.com/33947681/85098509-e4365c00-b235-11ea-8e10-6a651d877857.png">
 
 <img width="419" alt="스크린샷 2020-06-19 오후 1 10 52" src="https://user-images.githubusercontent.com/33947681/85098514-e698b600-b235-11ea-85b1-8ba7b7d4caaa.png">
+
+비트코인에서 사용자들간의 거래가 일어나게 되면 해당 거래 내용은 블록에 담겨 저장이 된다. 
 
 
 <img width="917" alt="스크린샷 2020-06-19 오후 1 22 10" src="https://user-images.githubusercontent.com/33947681/85098516-e7314c80-b235-11ea-8eed-95fc1ff9d8fa.png">
 
-
+이때 악의적인 사용자가 
 
 
 
